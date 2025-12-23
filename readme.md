@@ -1,4 +1,3 @@
-#Learn about Git and Github
+# Learn Git and Github
 
-'''javascript
 console.log('hello world')
